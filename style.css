@@ -1,0 +1,53 @@
+h1 {
+    color: red;
+}
+
+ul {
+	color: red;
+}
+ol {
+	color: red;
+}
+body {background-color: silver;
+}
+img {/* <length> values */
+width: 100px;
+width: 10em;
+}
+input {
+	border-radius: 30px;
+}
+.toets {margin: 10px;
+}
+textarea {border: 1rem solid;
+}
+td,
+th {
+    border: 2px solid rgb(190, 190, 190);
+    padding: 15px;
+}
+
+td {
+    text-align: center;
+}
+
+th[scope="col"] {
+    background-color: white;
+}
+
+th[scope="row"] {
+    background-color: white;
+}
+caption: {
+	padding: 5px;
+	caption-side: bottom;
+}
+table {
+    border-collapse: collapse;
+    border: 2px solid rgb(200, 200, 200);
+    letter-spacing: 1px;
+    font-family: sans-serif;
+    font-size: .8rem;
+}
+td {color: red
+}
